@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/766508419071346459/f331c367aea34ab9b1b51e451ec899bd/artifacts
+end_time: 1746454905530
+entry_point_name: ''
+experiment_id: '766508419071346459'
+lifecycle_stage: active
+run_id: f331c367aea34ab9b1b51e451ec899bd
+run_name: RandomForest_Baseline_Modek_TrainTestSplit
+run_uuid: f331c367aea34ab9b1b51e451ec899bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746454797992
+status: 3
+tags: []
+user_id: aryagupta

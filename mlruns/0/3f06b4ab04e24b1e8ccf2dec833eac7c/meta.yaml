@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3f06b4ab04e24b1e8ccf2dec833eac7c/artifacts
+deleted_time: 1746449181355
+end_time: 1746449170245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3f06b4ab04e24b1e8ccf2dec833eac7c
+run_name: debonair-stag-54
+run_uuid: 3f06b4ab04e24b1e8ccf2dec833eac7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746449170198
+status: 3
+tags: []
+user_id: aryagupta

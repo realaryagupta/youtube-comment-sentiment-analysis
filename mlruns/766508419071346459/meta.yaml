@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/766508419071346459
+creation_time: 1746450088374
+experiment_id: '766508419071346459'
+last_update_time: 1746450088374
+lifecycle_stage: active
+name: Random Forest Baseline Model

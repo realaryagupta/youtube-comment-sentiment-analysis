@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/468279134609977584/57d89acb78e24fc3b9cfe7db564358f9/artifacts
+end_time: 1746456852592
+entry_point_name: ''
+experiment_id: '468279134609977584'
+lifecycle_stage: active
+run_id: 57d89acb78e24fc3b9cfe7db564358f9
+run_name: RandomForest_Baseline_Model_TrainTestSplit_v2
+run_uuid: 57d89acb78e24fc3b9cfe7db564358f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746456849590
+status: 3
+tags: []
+user_id: aryagupta

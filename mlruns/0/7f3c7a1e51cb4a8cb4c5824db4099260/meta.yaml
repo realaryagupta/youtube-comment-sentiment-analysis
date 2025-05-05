@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7f3c7a1e51cb4a8cb4c5824db4099260/artifacts
+deleted_time: 1746449044413
+end_time: 1746449007346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7f3c7a1e51cb4a8cb4c5824db4099260
+run_name: gregarious-crane-94
+run_uuid: 7f3c7a1e51cb4a8cb4c5824db4099260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746449007310
+status: 3
+tags: []
+user_id: aryagupta

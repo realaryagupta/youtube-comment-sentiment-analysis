@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/766508419071346459/204e325f0a674b27869750ed56ead969/artifacts
+deleted_time: 1746455011200
+end_time: 1746450759202
+entry_point_name: ''
+experiment_id: '766508419071346459'
+lifecycle_stage: deleted
+run_id: 204e325f0a674b27869750ed56ead969
+run_name: RandomForest_Baseline_Modek_TrainTestSplit
+run_uuid: 204e325f0a674b27869750ed56ead969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746450705018
+status: 4
+tags: []
+user_id: aryagupta
