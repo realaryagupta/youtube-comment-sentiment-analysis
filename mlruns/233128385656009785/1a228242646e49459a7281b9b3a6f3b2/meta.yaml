@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/233128385656009785/1a228242646e49459a7281b9b3a6f3b2/artifacts
+end_time: 1746545032792
+entry_point_name: ''
+experiment_id: '233128385656009785'
+lifecycle_stage: active
+run_id: 1a228242646e49459a7281b9b3a6f3b2
+run_name: TF-IDF_(1, 1)_RandomForest
+run_uuid: 1a228242646e49459a7281b9b3a6f3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746545026669
+status: 3
+tags: []
+user_id: aryagupta

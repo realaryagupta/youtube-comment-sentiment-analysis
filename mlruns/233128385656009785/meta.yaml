@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/233128385656009785
+creation_time: 1746536735103
+experiment_id: '233128385656009785'
+last_update_time: 1746536735103
+lifecycle_stage: active
+name: Experiment 2.0 BoW vs TF-IDF
