@@ -1,0 +1,21 @@
+artifact_path: random_forest_model_tfidf_trigrams_imbalance_SMOTEENN
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.22.0
+model_size_bytes: 4318343
+model_uuid: 529024418c45462bb574202455953337
+prompts: null
+run_id: 6d46bf6bcf7c4db5bb5ad00fffe50aa1
+utc_time_created: '2025-05-08 05:23:05.497551'

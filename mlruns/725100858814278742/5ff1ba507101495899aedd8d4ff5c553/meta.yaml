@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/725100858814278742/5ff1ba507101495899aedd8d4ff5c553/artifacts
+end_time: 1746681723248
+entry_point_name: ''
+experiment_id: '725100858814278742'
+lifecycle_stage: active
+run_id: 5ff1ba507101495899aedd8d4ff5c553
+run_name: Imbalance_SMOTE_RandomForest_TFIDF_Trigrams
+run_uuid: 5ff1ba507101495899aedd8d4ff5c553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746681717812
+status: 3
+tags: []
+user_id: aryagupta

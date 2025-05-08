@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/446132809146599857/2c5bf4c6ff264a63942da5556b31e552/artifacts
+end_time: 1746680244588
+entry_point_name: ''
+experiment_id: '446132809146599857'
+lifecycle_stage: active
+run_id: 2c5bf4c6ff264a63942da5556b31e552
+run_name: TFIDF_Trigrams_max_features_6000
+run_uuid: 2c5bf4c6ff264a63942da5556b31e552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746680238810
+status: 3
+tags: []
+user_id: aryagupta

@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/446132809146599857
+creation_time: 1746679984495
+experiment_id: '446132809146599857'
+last_update_time: 1746680517531
+lifecycle_stage: active
+name: Experiment 3.0 - TF-IDF Trigram max_features
+tags: {}
